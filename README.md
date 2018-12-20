@@ -39,7 +39,8 @@ for sass files (scss, sass extensions) (same)
 to run both sass and css tasks
 
 
-Clone, 
+Clone,
+
 then run
 ```bash
 npm install 
