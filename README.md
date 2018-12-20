@@ -1,8 +1,8 @@
 # Lib project boiler
 
-This is a simple boiler plate to start a js library project, with gulp automation setup for minification for javascript and css files. Sass compilation. 
+This is a simple boiler plate to start a js library project, with gulp automation setup for minification for javascript and css files. Sass compilation. And simple copy with comments stripping.
 
-Watcher Update for only the changed or added files (added if is not empty (not newly created) [copy, move or rename (which is a move)]).
+Watcher: Update for only the changed or added files (added if is not empty (not newly created) [copy, move or rename (which is a move)]).
 
 (current gulp version = 4)
 
