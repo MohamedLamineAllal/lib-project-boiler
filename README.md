@@ -44,4 +44,6 @@ then run
 ```bash
 npm install 
 ```
+to install the dev dependencies (needed for the task runner).
 
+and you will get started.
