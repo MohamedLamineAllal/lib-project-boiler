@@ -7,35 +7,41 @@ Watcher: Update for only the changed or added files (added if is not empty (not 
 (current gulp version = 4)
 
 
-```
+```bash
 > gulp
 ```
 to start the watcher
 
 
-```
+```bash
 > gulp jsminify
 ```
 to minify javascript files. All the ones in `src`.
 
-```
+```bash
 > gulp jsCopy
 ```
 to only copy to destination.
 
-```
+```bash
 > gulp css
 ```
 for css files (minfication + just copy version)
 
-```
+```bash
 > gulp sass
 ```
 for sass files (scss, sass extensions) (same)
 
-```
+```bash
 > gulp style
 ```
 to run both sass and css tasks
 
+
+Clone, 
+then run
+```bash
+npm install 
+```
 
